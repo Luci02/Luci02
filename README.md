@@ -15,6 +15,8 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=plastic&logo=springboot&logoColor=white)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white)
+
+<!-- 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Luci02&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Luci02&theme=dark&hide_border=false)<br/>
@@ -25,5 +27,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Luci02&icon=3&color=1)](https://visitcount.itsvg.in)
-
+-->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
