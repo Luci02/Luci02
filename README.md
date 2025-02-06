@@ -1,6 +1,6 @@
 <h1 align="center">Hi! 👋 I'm Luci02</h1>
 
-- 🔭 I’m currently working on [FlexDrive](https://github.com/Luci02/FlexDrive)  
+<!-- - 🔭 I’m currently working on [FlexDrive](https://github.com/Luci02/FlexDrive) -->
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
